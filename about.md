@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Software Developer currently working @ Critical Techworks (Bmwgroup).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently base @ Porto, Portugal.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sousajf1@protonmail.ch](mailto:sousajf1@protonmail.ch)
