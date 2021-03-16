@@ -8,7 +8,7 @@ Software Developer currently working @ Critical Techworks (Bmwgroup).
 
 ### More Information
 
-Currently base @ Porto, Portugal.
+Currently based @ Porto, Portugal.
 
 ### Contact me
 
