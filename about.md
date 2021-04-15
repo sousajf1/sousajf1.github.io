@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Software Developer currently working @ Critical Techworks (Bmwgroup).
+Software Developer currently working @ Critical Techworks (BMW Group).
 
 ### More Information
 
